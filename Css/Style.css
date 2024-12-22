@@ -108,6 +108,11 @@ body {
     left: 30%;
     padding: 10px;
 }
+.year-date {
+    position: absolute;
+    top: 15%;
+    left: 55%;
+}
 .party-details p {
     margin: 5px 0;
     font-size: 16px;
@@ -127,6 +132,5 @@ body {
 }
 .coming-soon {
     padding: 30px;
-    
-    
+
 }
